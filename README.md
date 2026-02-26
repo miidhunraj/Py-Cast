@@ -3,10 +3,10 @@
 A modern local streaming server built with Flask and OpenCV.
 
 ## Features
-- ⚡ Automatic thumbnail generation.
-- 📱 Mobile-responsive UI with glassmorphism design.
-- 🕒 Auto-resume (saves playback position in LocalStorage).
-- 📺 Picture-in-Picture support.
+- Automatic thumbnail generation.
+- Mobile-responsive UI with glassmorphism design.
+- Auto-resume (saves playback position in LocalStorage).
+- Picture-in-Picture support.
 
 ## Setup 
 
